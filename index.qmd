@@ -1,9 +1,45 @@
 ---
-title: "fsi_website"
+pagetitle: "RStudio FSI Pods Website"
+description: |
+  RStudio FSI Pods Website provides resources, news for and application demonstrations for Financial Services and Insurance companies interested in RStudio Professional Products and applicable Open Source offerings
+page-layout: custom
+section-divs: false
+toc: false
+css: index.css
+editor: source
 ---
 
-This is a Quarto website.
+::: {.content-block}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<center>
+# Welcome to the RStudio FSI Pods Website
+</center>
 
-Here is a change
+---
+
+[![RStudio Concept Map](nov2020RSconceptmap.jpg "RStudio Team")](https://rstudio.com/products/team/) 
+
+---
+
+**RStudio Team** gives your organization access to the leading modular platform for data science, including:
+
+* **RStudio Workbench** to analyze data and create data products using R or Python in the RStudio IDE, Jupyter Notebooks, or JupyterLab
+
+* **RStudio Connect** to easily deploy, schedule, automate, and scale data products with the click of a button, including Shiny apps, R Markdown reports, Jupyter Notebooks, Flask APIs, Dash apps, and more.
+
+* **RStudio Package Manager** to control and manage R packages across the enterprise for governance and reproducibility.
+
+**Learn more about:**
+
+::: {.hero-buttons}
+<center>
+[RStudio in Financial Services](https://rstudio.com/solutions/financial-services/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}&nbsp;&nbsp;&nbsp;
+[RStudio in Insurance](https://www.rstudio.com/solutions/rstudio-in-insurance/){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+</center>
+::: 
+
+![](rs_symbols.jpg)
+
+---
+
+:::

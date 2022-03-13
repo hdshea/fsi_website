@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "fsi_website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nHere is a change"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "resources.html#rstudio-tools---resources-for-users-and-admins",
+    "href": "resources.html#rstudio-tools---resources-for-users-and-admins",
+    "title": "Resources",
+    "section": "RStudio Tools - Resources for Users and Admins",
+    "text": "RStudio Tools - Resources for Users and Admins\n\n\n\nHow To Guides\nVideo Tutorials\n\n\n\n\nHow to Publish an R Markdown Document to RStudio Connect\nPublishing with Collaboration on RStudio Connect\n\n\nHow to Publish a Shiny App to RStudio Connect\nPublishing Jupyter Notebooks to RStudio Connect\n\n\nHow to Publish a Plumber API to RStudio Connect\nUsing Python with RStudio and reticulate\n\n\nHow to Publish a Jupyter Notebook to RStudio Connect\n\n\n\n\n\n\n\nUser Documentation\nAdmin Documentation\n\n\n\n\nCreating Interactive Applications\nReference Architectures\n\n\nDeploy Tensorflow Models\nScaling R and RStudio\n\n\nREST APIs with Plumber\nReproducible Environments for Data Science\n\n\nCreate Excel, Word, and PowerPoint output with R Markdown\nR options and environment variables on startup\n\n\nPublishing Methods for RStudio Connect\nInstallation, Admin, and User Guides\n\n\nUsing Python with RStudio (Jupyter Notebooks, Flask APIs, Dash Apps)\nRStudio Team Admin Training\n\n\nDatabases using R\nRStudio in Production - All Resources\n\n\nRun Background and Launcher Jobs"
   }
 ]

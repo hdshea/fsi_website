@@ -1,19 +1,49 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "fsi_website"
+  title: "RStudio FSI Website"
   navbar:
-    background: primary
+    background: light
+    title: false
+    collapse-below: lg
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Overview"
+        href: index.qmd
+      - text: "Financial Services"
+        href: https://rstudio.com/solutions/financial-services/
+      - text: "Insurance"
+        href: https://www.rstudio.com/solutions/rstudio-in-insurance/
+      - text: "Resources"
+        href: resources.qmd
+    right:
+    - text: "About"
+      href: about.qmd
+    - icon: github
+      href: https://github.com/hdshea/fsi_website
+  page-footer:
+    left: |
+      Proudly supported by
+      [![](https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg){width=65px}](https://www.rstudio.com)
+    center:
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/hdshea/fsi_website
 
 format:
   html:
-    theme: cosmo
+    toc: true
+    theme:
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
     css: styles.css
+    include-after-body: js.html
 
+freeze: true
 
+editor: visual
 
