@@ -2,15 +2,22 @@
 title: "Resources"
 ---
 
+::: {.content-block}
+
 ## RStudio Tools - Resources for Users and Admins
+
+### Guides and Tutorials
 
 How To Guides  | Video Tutorials
 ------------- | -------------
 [How to Publish an R Markdown Document to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-rmd/)  | [Publishing with Collaboration on RStudio Connect](https://docs.rstudio.com/tutorials/user/publishing-with-collaboration-on-rsc/)
 [How to Publish a Shiny App to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-shinyapp/)  | [Publishing Jupyter Notebooks to RStudio Connect](https://docs.rstudio.com/tutorials/user/publishing-jupyter-notebooks-to-rsc/)
 [How to Publish a Plumber API to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-plumberapi/)  | [Using Python with RStudio and reticulate](https://docs.rstudio.com/tutorials/user/using-python-with-rstudio-and-reticulate/)
-[How to Publish a Jupyter Notebook to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-jupyter-notebook/)  |
+[How to Publish a Jupyter Notebook to RStudio Connect](https://docs.rstudio.com/how-to-guides/rsc/publish-jupyter-notebook/)  | [Using RStudio Workbench with AWS Sagemaker](https://www.youtube.com/watch?v=fmgSVRWgXDg)
+[Pro Tips for `pins`](https://docs.rstudio.com/how-to-guides/users/pro-tips/pins/)  |
+[Pro Tips for `connectwidgets`](https://docs.rstudio.com/how-to-guides/users/pro-tips/widgets/)  |
 
+### Documentation
 
 User Documentation  | Admin Documentation
 ------------- | -------------
@@ -24,3 +31,5 @@ User Documentation  | Admin Documentation
 [Run Background and Launcher Jobs](https://solutions.rstudio.com/examples/jobs-overview/)  |
 
 ---
+
+:::
