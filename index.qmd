@@ -12,12 +12,12 @@ editor: source
 ::: {.content-block}
 
 <center>
-# Welcome to the RStudio FSI Pods Website
+# Welcome to the RStudio FSI Website
 </center>
 
 ---
 
-[![RStudio Concept Map](nov2020RSconceptmap.jpg "RStudio Team")](https://rstudio.com/products/team/) 
+[![RStudio Concept Map](images/nov2020RSconceptmap.jpg "RStudio Team")](https://rstudio.com/products/team/) 
 
 ---
 
@@ -38,7 +38,7 @@ editor: source
 </center>
 ::: 
 
-![](rs_symbols.jpg)
+![](images/rs_symbols.jpg)
 
 ---
 
