@@ -17,7 +17,7 @@ editor: source
 
 ---
 
-[![RStudio Concept Map](images/nov2020RSconceptmap.jpg "RStudio Team")](https://rstudio.com/products/team/) 
+[![RStudio Concept Map](images/RST_Concept_Map_2021.jpg "RStudio Team")](https://rstudio.com/products/team/) 
 
 ---
 
