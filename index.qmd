@@ -12,7 +12,8 @@ editor: source
 ::: {.content-block}
 
 <center>
-# Welcome to the RStudio FSI Website
+# Welcome to the RStudio
+# Financial Services and Insurance Website
 </center>
 
 ---
