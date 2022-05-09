@@ -1,7 +1,6 @@
 ---
 pagetitle: "RStudio FSI Pods Website"
-description: |
-  RStudio FSI Pods Website provides resources, news for and application demonstrations for Financial Services and Insurance companies interested in RStudio Professional Products and applicable Open Source offerings
+description: The RStudio FSI Pods Website provides resources, news and application demonstrations for Financial Services and Insurance companies interested in RStudio Professional Products and Open Source offerings
 page-layout: custom
 section-divs: false
 toc: false
